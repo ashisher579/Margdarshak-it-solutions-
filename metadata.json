@@ -1,0 +1,8 @@
+{
+  "name": "Margdarshak IT Solutions",
+  "description": "Premium IT services website offering Custom Software, SEO, AI Chatbots, Website, & App development, complete with a Client Dashboard, Project Tracking, and server-side AI Assistant support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
